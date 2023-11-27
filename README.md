@@ -1,0 +1,2 @@
+# NZWalks
+A Simple API
